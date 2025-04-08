@@ -12,7 +12,7 @@ node_modules
 dist
 dist-ssr
 eslint.config.js
-.editorconfig
+# .editorconfig
 
 *.local
 .es
